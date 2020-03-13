@@ -6,7 +6,7 @@ In this web application, you can draw shape using defined rules.
 
 ## Genetic algorithm
 
-With "AI" button, you can draw random shape with genetic algotithm.
+With "AI" button, you can draw random shape with genetic algorithm.
 
 ### Algorithm steps:
 
@@ -14,7 +14,7 @@ With "AI" button, you can draw random shape with genetic algotithm.
 2. Natural selection - rate shapes from initial population and remove 1/4 with worst marks
 3. Crossover - divide shapes into pairs and add parts of them to each other
 4. Mutation - shapes after crossover are mutated with random intensity. Mutation changes some parts of shape
-5. New genration - after mutation new generation of shapes is created. They are rated and the best of them is displayed to user.
+5. New generation - after mutation new generation of shapes is created. They are rated and the best of them is displayed to user. Now this is our initial population.
 
 ## Important facts:
 
@@ -28,3 +28,4 @@ With "AI" button, you can draw random shape with genetic algotithm.
 
 - To fasten visual changes, every click on "AI" button passes 5 generations
 
+- In genetic algorithm shape is rated: +1 for line, +3 for square and +5 for turn
