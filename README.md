@@ -1,5 +1,9 @@
 # Shape generator
 
+<p align="center">
+  <img src="https://github.com/Orawko/Shape-generator/blob/master/img/demo.png?raw=true"/>
+</p>
+
 Test it here -> https://7verr.csb.app/
 
 In this web application, you can draw shape using defined rules.
